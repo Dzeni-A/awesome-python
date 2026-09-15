@@ -122,3 +122,4 @@ PRs will be **closed** if:
 - Project is archived or abandoned (no commits in 12+ months)
 - No documentation or unclear use case
 - Repository less than 1 month old
+ Bitte sende eine E-Mail an lieblings Kollege
